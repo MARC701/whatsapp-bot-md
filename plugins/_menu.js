@@ -16,7 +16,7 @@ bot.addCommand(
     })
     const date = new Date()
     let CMD_HELP = `╭────────────────╮
-						ʟᴇᴠᴀɴᴛᴇʀ
+						Arslan Chaudary
 ╰────────────────╯
 
 ╭────────────────
@@ -29,6 +29,8 @@ bot.addCommand(
 │ Plugins : ${PLUGINS.count}
 │ Ram : ${getRam()}
 │ Uptime : ${getUptime('t')}
+| Tiktok : https://www.tiktok.com/@arslanchaudary66
+| Insta : https://www.instagram.com/arslanchaudary701/
 ╰────────────────
 ╭────────────────
 `
@@ -86,7 +88,7 @@ bot.addCommand(
       }
     })
     const date = new Date()
-    let msg = `\`\`\`╭═══ LEVANTER ═══⊷
+    let msg = `\`\`\`╭═══ Arslan Chaudary ═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : ${PREFIX}
 ┃❃│ User : ${message.pushName}
@@ -97,6 +99,8 @@ bot.addCommand(
 ┃❃│ Plugins : ${PLUGINS.count}
 ┃❃│ Ram : ${getRam()}
 ┃❃│ Uptime : ${getUptime('t')}
+┃❃│ Tiktok : https://www.tiktok.com/@arslanchaudary66
+┃❃│ Insta : https://www.instagram.com/arslanchaudary701/
 ┃❃╰───────────────
 ╰═════════════════⊷\`\`\`\n`
 
