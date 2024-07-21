@@ -1,5 +1,5 @@
 {
-  "name": "levanter@5.2.3",
+  "name": "MARC@5.2.3",
   "description": "",
   "keywords": ["noedjs"],
   "success_url": "/",
@@ -17,12 +17,12 @@
     "SUDO": {
       "description": "admin",
       "required": false,
-      "value": ""
+      "value": "+923111977378"
     },
     "PREFIX": {
       "description": "prefix, check for more",
       "required": false,
-      "value": "."
+      "value": "-"
     },
     "SESSION_ID": {
       "description": "session id",
@@ -32,7 +32,7 @@
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "❤️,MARC"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
@@ -85,7 +85,7 @@
     "ANTIWORDS": {
       "description": "words that not allowed in chats.",
       "required": false,
-      "value": "word1,word2,word3"
+      "value": "BC,BKL,Lan,lan,pan chod,🖋🇮🇳,🇮🇳"
     },
     "SS_TOKEN": {
       "description": "token from https://app.screenshotapi.net/dashboard",
@@ -100,7 +100,7 @@
     "AUTO_STATUS_VIEW": {
       "description": "view others status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "SEND_READ": {
       "description": "send blue tick",
@@ -110,7 +110,7 @@
     "AJOIN": {
       "description": "Accept Group join request(Group privacy)",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "PERSONAL_MESSAGE": {
       "description": "Send a Welcome message on personal chat",
